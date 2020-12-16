@@ -1,6 +1,8 @@
-# rating_animation
+# Rating_animation
 
 A new Flutter project.
+
+![Alt Text](https://github.com/Rohit-RA-2020/Rating_Animation/blob/main/Image/opyILC8Z5w.gif)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
